@@ -1,0 +1,1 @@
+// Este se encarga de hacer la logica de negocio, aqui comunicas lo que tiene el modelo para pasarlo a la vista, validaciones, regresar respuestas, manejar logica para guardar en la base de datos.

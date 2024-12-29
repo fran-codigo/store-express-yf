@@ -1,0 +1,1 @@
+// Las rutas son las que puedes poner en el navegador y aqui es donde conectas tus metodos del controlador con que vas a enseñar en tus vistas
